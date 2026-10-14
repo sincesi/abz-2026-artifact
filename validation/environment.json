@@ -1,0 +1,11 @@
+{
+  "alloy_version": "6.1.0.202111031525",
+  "solver": "SAT4J",
+  "java_version": "15.0.1",
+  "noOverflow": true,
+  "alloy_jar_sha256": "fd60f917cbec7a97c5b25259e62045848740c885868dee5b6afaad5010e0a5cb",
+  "models": {
+    "models/ABZ_Table2_corrected.als": "131cdc5de369185c32b179ffc7ac417efc7f3a125365d653d02c14ee7199e988",
+    "diagnostics/ABZ_original_bounded_noise.als": "f6b32115ac13be99aa547546c2172bec196acca664ed32dfd19b4a93a6c7edcb"
+  }
+}
