@@ -1,0 +1,13 @@
+index	label	kind	result	elapsed_ms	command
+0	case1_gen_exact	run	SAT	644	Run case1_gen_exact for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
+1	case2_del_exact	run	SAT	214	Run case2_del_exact for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
+2	case3_noise_approx	run	SAT	163	Run case3_noise_approx for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
+3	case4_noise_exact_original	run	SAT	95	Run case4_noise_exact_original for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
+4	case4_noise_nonzero_exact	run	SAT	71	Run case4_noise_nonzero_exact for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
+5	OriginalNoisePreventsExactReidentification	check	SAT	72	Check OriginalNoisePreventsExactReidentification for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
+6	NonzeroNoisePreventsExactReidentification	check	SAT	64	Check NonzeroNoisePreventsExactReidentification for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
+7	ShowWitness_gen_exact	run	SAT	72	Run ShowWitness_gen_exact for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
+8	ShowWitness_del_exact	run	SAT	52	Run ShowWitness_del_exact for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
+9	ShowWitness_noise_approx	run	SAT	72	Run ShowWitness_noise_approx for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
+10	ShowWitness_noise_exact_original	run	SAT	48	Run ShowWitness_noise_exact_original for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
+11	ShowWitness_noise_nonzero_approx	run	SAT	99	Run ShowWitness_noise_nonzero_approx for 3 but 6 int, 1 D_orig, 1 D_rel, 1 D_ext
