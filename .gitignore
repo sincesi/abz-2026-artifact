@@ -1,0 +1,3 @@
+*.class
+validation/*/*.xml
+__pycache__/
